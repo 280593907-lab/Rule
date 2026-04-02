@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-26 02:22:44
+# UPDATED: 2026-03-30 02:12:31
 # HOST: 19
 # HOST-KEYWORD: 26
 # HOST-SUFFIX: 7068
@@ -5115,7 +5115,6 @@ HOST-SUFFIX,rxhj.net,Proxy
 HOST-SUFFIX,s-cute.com,Proxy
 HOST-SUFFIX,s-dragon.org,Proxy
 HOST-SUFFIX,s-nbcnews.com,Proxy
-HOST-SUFFIX,s.rmimg.com,Proxy
 HOST-SUFFIX,s.team,Proxy
 HOST-SUFFIX,s1heng.com,Proxy
 HOST-SUFFIX,s1s1s1.com,Proxy
@@ -6853,6 +6852,7 @@ HOST-SUFFIX,xn--9iqy04a7fi01l.com,Proxy
 HOST-SUFFIX,xn--9pr62r24a.com,Proxy
 HOST-SUFFIX,xn--czq75pvv1aj5c.org,Proxy
 HOST-SUFFIX,xn--i2ru8q2qg.com,Proxy
+HOST-SUFFIX,xn--kcrv3utim32hx9f6qe.com,Proxy
 HOST-SUFFIX,xn--ngstr-lra8j.com,Proxy
 HOST-SUFFIX,xn--noss43i.com,Proxy
 HOST-SUFFIX,xn--oiq.cc,Proxy
